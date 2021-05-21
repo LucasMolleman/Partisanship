@@ -1,5 +1,5 @@
 # Partisanship
-Data and code for the manuscript "Partisan biases in social information use"
+Data and code for the manuscript "Partisan biases in social information use" by Lucas Molleman, Andrea Gradassi, Mubashir Sultan and Wouter van den Bos
 
 All analyses reported in the paper were done in R. The code is in Analysis. The code is commented in-line. 
 

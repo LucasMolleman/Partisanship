@@ -1,0 +1,21 @@
+state, population, abbreviation
+Alabama, 4.9, AL
+Arizona, 7.4, AZ
+California, 39.4, CA
+D.C., 0.7, DC
+Florida, 21.7, FL
+Georgia, 10.7, GA
+Hawaii, 1.4, HI
+Iowa, 3.1, IA
+Kentucky,4.5, KY
+Massachusetts, 6.9, MA
+Nevada, 3.1, NV
+New York, 19.3, NY
+North Carolina, 10.6, NC
+Ohio, 11.7, OH
+Oklahoma, 4, OK
+Pennsylvania, 12.8, PA
+South Carolina, 5.2, SC
+Texas, 29.3, TX
+West Virginia, 1.8, WV
+Wyoming, 0.6, WY

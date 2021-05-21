@@ -1,0 +1,21 @@
+state, percDem, abbrev
+Alabama, 41, AL
+Arizona, 50, AZ
+California, 64, CA
+D.C., 93, DC
+Florida, 48, FL
+Georgia, 50, GA
+Hawaii, 64, HI
+Iowa, 46, IA
+Kentucky, 37, KY
+Massachusetts, 66, MA
+Nevada, 51, NV
+New York, 61, NY
+North Carolina, 49, NC
+Ohio, 46, OH
+Oklahoma, 34, OK
+Pennsylvania, 50, PA
+South Carolina, 44, SC
+Texas, 47, TX
+West Virginia, 31, WV
+Wyoming, 29, WY
